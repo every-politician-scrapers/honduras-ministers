@@ -1,1 +1,3 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q54849265,Government of Juan Orlando Hernández,2014-01-27,11,,,2022-01-27,11,,,,,,,,,,
+,Q110222446,Cabinet of Xiomara Castro,2022-01-27,11,,,,,,,,,,,,,,
