@@ -55,15 +55,21 @@
             "Honduras"
           ],
           "template": "bandera2"
+        },
+        {
+          "template": "psh"
+        },
+        {
+          "template": "pinu"
         }
       ],
       "infoboxes": [
         {
           "color fondo": {
-            "text": "#8B0000"
+            "text": "#18C3DF"
           },
           "color texto": {
-            "text": "white"
+            "text": "black"
           },
           "nombre": {
             "text": "60px\nPresidenta de la República de Honduras\n2022 - actual",
@@ -140,19 +146,6 @@
           "formación": {
             "text": "27 de enero de 2022"
           },
-          "coaliciones": {
-            "text": "Logo - Partido Salvador de Honduras.svg Partido Salvador de Honduras Partido PINU de Honduras.png Partido Innovación y Unidad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Partido Salvador de Honduras"
-              },
-              {
-                "type": "internal",
-                "page": "Partido Innovación y Unidad"
-              }
-            ]
-          },
           "anterior": {
             "text": "Juan Orlando Hernández",
             "links": [
@@ -179,20 +172,39 @@
     {
       "title": "Gabinete",
       "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Horas antes de su toma de posesión, la presidenta Xiomara Castro anunció a los principales funcionarios de su gobierno."
+            },
+            {
+              "text": "Los nombramientos de su hijo Héctor Zelaya Castro como secretario privado de la Presidencia y de su sobrino político como ministro de Defensa generó críticas por considerarlos como nepotismo.",
+              "links": [
+                {
+                  "text": "nepotismo",
+                  "type": "internal",
+                  "page": "nepotismo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "tables": [
         [
           {
-            "Ministerios/Secretarías actuales": {
-              "text": "Designados Presidenciales de Honduras",
+            "Ministerios/Secretarías y otros entes": {
+              "text": "Designaturas presidenciales",
               "links": [
                 {
-                  "text": "Designados Presidenciales de Honduras",
+                  "text": "Designaturas presidenciales",
                   "type": "internal",
-                  "page": "Vicepresidente de Honduras"
+                  "page": "Designado presidencial"
                 }
               ]
             },
-            "Encargado": {
+            "Titular": {
               "text": "Salvador Nasralla, Doris Gutiérrez, Renato Florentino",
               "links": [
                 {
@@ -204,18 +216,24 @@
                   "page": "Doris Gutiérrez"
                 }
               ]
+            },
+            "Notas": {
+              "text": "Electos en la fórmula presidencial"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de la SAR"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Marlon Ochoa"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Gobernación, Justicia y Descentralización",
               "links": [
                 {
@@ -225,12 +243,15 @@
                 }
               ]
             },
-            "Encargado": {
+            "Titular": {
               "text": "Tomás Vaquero"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Finanzas",
               "links": [
                 {
@@ -240,12 +261,28 @@
                 }
               ]
             },
-            "Encargado": {
-              "text": "Rixi Moncada"
+            "Titular": {
+              "text": "Rixi Moncada",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rixi Moncada"
+                }
+              ]
+            },
+            "Notas": {
+              "text": "Era consejera del Consejo Nacional Electoral",
+              "links": [
+                {
+                  "text": "Consejo Nacional Electoral",
+                  "type": "internal",
+                  "page": "Consejo Nacional Electoral (Honduras)"
+                }
+              ]
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Relaciones Exteriores",
               "links": [
                 {
@@ -255,27 +292,45 @@
                 }
               ]
             },
-            "Encargado": {
+            "Titular": {
               "text": "Eduardo Enrique Reina"
+            },
+            "Notas": {
+              "text": "Era magistrado del Tribunal de Justicia Electoral",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tribunal de Justicia Electoral"
+                }
+              ]
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
-              "text": "Secretaría de Defensa Nacional",
+            "Ministerios/Secretarías y otros entes": {
+              "text": "Secretaría de Defensa",
               "links": [
                 {
-                  "text": "Secretaría de Defensa Nacional",
+                  "text": "Secretaría de Defensa",
                   "type": "internal",
                   "page": "Secretaría de Defensa Nacional (Honduras)"
                 }
               ]
             },
-            "Encargado": {
+            "Titular": {
               "text": "José Manuel Zelaya Rosales"
+            },
+            "Notas": {
+              "text": "Sobrino de expresidente Manuel Zelaya",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manuel Zelaya"
+                }
+              ]
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Educación Pública",
               "links": [
                 {
@@ -285,20 +340,32 @@
                 }
               ]
             },
-            "Encargado": {
+            "Titular": {
               "text": "Daniel Esponda"
+            },
+            "Notas": {
+              "text": "Ex-candidato a diputado"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Salud"
             },
-            "Encargado": {
+            "Titular": {
               "text": "José Manuel Matheu"
+            },
+            "Notas": {
+              "text": "Médico y diputado por el Partido Salvador de Honduras",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Partido Salvador de Honduras"
+                }
+              ]
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Agricultura y Ganadería",
               "links": [
                 {
@@ -308,28 +375,44 @@
                 }
               ]
             },
-            "Encargado": {
+            "Titular": {
               "text": "Laura Suazo"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría del Gabinete"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Rodolfo Pastor de María Campos"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Seguridad"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Ramón Sabillón"
+            },
+            "Notas": {
+              "text": "Ex-director de la Policía Nacional durante el gobierno de Juan Orlando Hernández",
+              "links": [
+                {
+                  "text": "gobierno de Juan Orlando Hernández",
+                  "type": "internal",
+                  "page": "gobierno de Juan Orlando Hernández"
+                }
+              ]
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Desarrollo e Inclusión Social",
               "links": [
                 {
@@ -339,20 +422,26 @@
                 }
               ]
             },
-            "Encargado": {
+            "Titular": {
               "text": "José Carlos Cardona"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Turismo"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Yadira Gómez"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Presidenta del Banco Central de Honduras",
               "links": [
                 {
@@ -362,183 +451,303 @@
                 }
               ]
             },
-            "Encargado": {
+            "Titular": {
               "text": "Rebeca Santos"
+            },
+            "Notas": {
+              "text": "Antigua secretaria de Finanzas"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Infraestructura y Servicios Públicos"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Mauricio Ramos"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Desarrollo Económico"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Pedro Barquero"
+            },
+            "Notas": {
+              "text": "Empresario, coordinador del Partido Salvador de Honduras",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Partido Salvador de Honduras"
+                }
+              ]
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Comisión Nacional de Banca y Seguros"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Marcio Sierra"
+            },
+            "Notas": {
+              "text": "Parte del gabinete en el gobierno de Manuel Zelaya",
+              "links": [
+                {
+                  "text": "gobierno de Manuel Zelaya",
+                  "type": "internal",
+                  "page": "gobierno de Manuel Zelaya"
+                }
+              ]
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Recursos Naturales y Ambiente"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Lucky Medina"
+            },
+            "Notas": {
+              "text": "Ex-designado presidencial de Castro, quien renunció como parte del pacto Libre-PSH",
+              "links": [
+                {
+                  "text": "pacto Libre-PSH",
+                  "type": "internal",
+                  "page": "Elecciones generales de Honduras de 2021",
+                  "anchor": "Candidaturas presidenciales"
+                }
+              ]
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Trabajo y Seguridad Social"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Sarahí Cerna"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Dirección de Ciencia y Tecnología"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Mary Vallecillo"
+            },
+            "Notas": {
+              "text": "Científica"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
-              "text": "Ministro Asesor en materia de Transparencia y Combate a la Corrupción"
+            "Ministerios/Secretarías y otros entes": {
+              "text": "Ministerio de Asesoría en materia de Transparencia y Combate a la Corrupción"
             },
-            "Encargado": {
-              "text": "Edmundo Orellana Mercado"
+            "Titular": {
+              "text": "Edmundo Orellana",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Edmundo Orellana"
+                }
+              ]
+            },
+            "Notas": {
+              "text": "Antiguo fiscal de la República"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
-              "text": "Secretario Privado"
+            "Ministerios/Secretarías y otros entes": {
+              "text": "Secretaría Privada de la Presidencia"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Héctor Zelaya Castro"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Derechos Humanos"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Natalie Roque"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Dirección Presidencial de Planificación"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Ricardo Salgado"
+            },
+            "Notas": {
+              "text": "Dirigente de Libre"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Secretaría de Prensa"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Ivis Alvarado"
+            },
+            "Notas": {
+              "text": "Periodista"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Gestión por Resultados/Casa Presidencial"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Julio Navarro"
+            },
+            "Notas": {
+              "text": "Sociólogo"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "INFOP (Instituto Nacional de Formación profesional)"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Fredis Cerrato"
+            },
+            "Notas": {
+              "text": "Presidente del Colegio de Abogados"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Enlace Municipal Casa Presidencial"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Nelson Licona"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Dirección Especial Ejecutiva de Cultura y Artes"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Anarella Vélez"
-            }
-          },
-          {
-            "Ministerios/Secretarías actuales": {
-              "text": "Ministro Asesor en materia de Comunicaciones de la Presidencia"
             },
-            "Encargado": {
-              "text": "Milton Benítez"
+            "Notas": {
+              "text": "Catedrática de la UNAH, historiadora, ensayista",
+              "links": [
+                {
+                  "text": "UNAH",
+                  "type": "internal",
+                  "page": "Universidad Nacional Autónoma de Honduras"
+                }
+              ]
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
+              "text": "Ministro asesor en materia de Comunicaciones de la Presidencia"
+            },
+            "Titular": {
+              "text": "Milton Benítez"
+            },
+            "Notas": {
+              "text": "Ex-candidato independiente por Honduras Humana en 2021"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Asistente de la Presidencia en atención a presos políticos y sociales"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Pedro Joaquín Amador"
-            }
-          },
-          {
-            "Ministerios/Secretarías actuales": {
-              "text": "Comisionado Presidencial contra las ZEDE"
             },
-            "Encargado": {
-              "text": "Fernando García"
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
+              "text": "Comisión Presidencial contra las ZEDE"
+            },
+            "Titular": {
+              "text": "Fernando García"
+            },
+            "Notas": {
+              "text": ""
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Reforestación Nacional y Medio Ambiente"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Miguel Briceño"
+            },
+            "Notas": {
+              "text": ""
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Instituto Nacional de Estadística"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Eugenio Sosa"
+            },
+            "Notas": {
+              "text": "Sociólogo"
             }
           },
           {
-            "Ministerios/Secretarías actuales": {
+            "Ministerios/Secretarías y otros entes": {
               "text": "Ministro Asesor de la Presidencia en Materia Laboral"
             },
-            "Encargado": {
+            "Titular": {
               "text": "Olvin Rodríguez"
+            },
+            "Notas": {
+              "text": ""
             }
           }
         ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
       ]
     },
     {
-      "title": "Ceremonia de cambio de mando",
+      "title": "Toma de posesión",
       "depth": 0,
       "paragraphs": [
         {
@@ -572,7 +781,7 @@
               ]
             },
             {
-              "text": "La hasta entonces presidenta electa informó que su toma de mando no usará medios económicos del Estado hondureño, por lo que la Comisión de Traspaso Presidencial inició una recaudación a nivel nacional para conseguir los fondos necesarios para la ceremonia.",
+              "text": "La hasta entonces presidenta electa informó que su toma de mando no usaría medios económicos del Estado hondureño, por lo que la Comisión de Traspaso de Mando Presidencial inició una recaudación a nivel nacional para conseguir los fondos necesarios para la ceremonia.",
               "links": [
                 {
                   "text": "toma de mando",
@@ -582,7 +791,44 @@
               ]
             },
             {
-              "text": "A su investidura asistirán: el rey de España Felipe VI, los presidentes Carlos Alvarado de Costa Rica y Laurentino Cortizo de Panamá; las vicepresidentas Kamala Harris de Estados Unidos, Cristina Fernández de Kirchner de Argentina y Raquel Peña de Antuña de República Dominicana; el vicepresidente de Taiwán William Lai y el presidente electo de Chile Gabriel Boric.",
+              "text": "También, como parte de los preparativos, la Comisión pintó la gradería y exteriores del Estadio Nacional.",
+              "links": [
+                {
+                  "text": "Estadio Nacional",
+                  "type": "internal",
+                  "page": "Estadio Nacional de Tegucigalpa"
+                }
+              ]
+            },
+            {
+              "text": "La gradería en turquesa, blanco y azul celeste, el color de la imagen del nuevo gobierno."
+            },
+            {
+              "text": "El mismo tono de azul es el que Castro usó de manera inédita en su banda presidencial, y el que, comenzado su gobierno, pasó a usarse en la Bandera Nacional —esto en referencia al «azul turquesa» que debe tener la bandera según su decreto.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bandera Nacional"
+                },
+                {
+                  "text": "azul turquesa",
+                  "type": "internal",
+                  "page": "Turquesa (color)"
+                },
+                {
+                  "text": "su decreto",
+                  "type": "internal",
+                  "page": "Bandera de Honduras",
+                  "anchor": "Modificación"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A su investidura asistieron: el rey de España Felipe VI, los presidentes Carlos Alvarado de Costa Rica y Laurentino Cortizo de Panamá; las vicepresidentas Kamala Harris de Estados Unidos, Cristina Fernández de Kirchner de Argentina y Raquel Peña de Antuña de República Dominicana; los vicepresidentes de Taiwán William Lai, Félix Ulloa de El Salvador, Salvador Valdés Mesa de Cuba, el presidente electo de Chile Gabriel Boric y el expresidente de Bolivia Evo Morales, entre otras personalidades.",
               "links": [
                 {
                   "text": "Felipe VI",
@@ -616,7 +862,28 @@
                 },
                 {
                   "type": "internal",
+                  "page": "Félix Ulloa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Salvador Valdés Mesa"
+                },
+                {
+                  "type": "internal",
                   "page": "Gabriel Boric"
+                },
+                {
+                  "type": "internal",
+                  "page": "Evo Morales"
+                }
+              ]
+            },
+            {
+              "text": "El presidente saliente Juan Orlando Hernández no se presentó a la ceremonia, deseándole éxito a las nuevas autoridades de gobierno en una cadena el día anterior.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Juan Orlando Hernández"
                 }
               ]
             }
@@ -639,6 +906,36 @@
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
