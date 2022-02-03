@@ -87,7 +87,7 @@
             ]
           },
           "imagen": {
-            "text": "Xiomara Castro (August 07, 2007) (cropped).jpg"
+            "text": "President Xiomara Castro (cropped).jpg"
           },
           "tamañoimagen": {
             "text": "250px"
@@ -271,7 +271,7 @@
               ]
             },
             "Notas": {
-              "text": "Era consejera del Consejo Nacional Electoral",
+              "text": "Exconsejera del Consejo Nacional Electoral",
               "links": [
                 {
                   "text": "Consejo Nacional Electoral",
@@ -296,7 +296,7 @@
               "text": "Eduardo Enrique Reina"
             },
             "Notas": {
-              "text": "Era magistrado del Tribunal de Justicia Electoral",
+              "text": "Exmagistrado del Tribunal de Justicia Electoral",
               "links": [
                 {
                   "type": "internal",
@@ -341,10 +341,10 @@
               ]
             },
             "Titular": {
-              "text": "Daniel Esponda"
+              "text": "Daniel Sponda"
             },
             "Notas": {
-              "text": "Ex-candidato a diputado"
+              "text": "Excandidato a diputado"
             }
           },
           {
@@ -401,7 +401,7 @@
               "text": "Ramón Sabillón"
             },
             "Notas": {
-              "text": "Ex-director de la Policía Nacional durante el gobierno de Juan Orlando Hernández",
+              "text": "Exdirector de la Policía Nacional durante el gobierno de Juan Orlando Hernández",
               "links": [
                 {
                   "text": "gobierno de Juan Orlando Hernández",
@@ -455,7 +455,7 @@
               "text": "Rebeca Santos"
             },
             "Notas": {
-              "text": "Antigua secretaria de Finanzas"
+              "text": "Exsecretaria de Finanzas"
             }
           },
           {
@@ -512,7 +512,7 @@
               "text": "Lucky Medina"
             },
             "Notas": {
-              "text": "Ex-designado presidencial de Castro, quien renunció como parte del pacto Libre-PSH",
+              "text": "Excandidato a designado presidencial de Castro, quien renunció como parte del pacto Libre-PSH",
               "links": [
                 {
                   "text": "pacto Libre-PSH",
@@ -559,7 +559,7 @@
               ]
             },
             "Notas": {
-              "text": "Antiguo fiscal de la República"
+              "text": "Exfiscal de la República"
             }
           },
           {
@@ -570,7 +570,13 @@
               "text": "Héctor Zelaya Castro"
             },
             "Notas": {
-              "text": ""
+              "text": "Hijo de la presidenta Xiomara Castro",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Xiomara Castro"
+                }
+              ]
             }
           },
           {
@@ -665,7 +671,7 @@
               "text": "Milton Benítez"
             },
             "Notas": {
-              "text": "Ex-candidato independiente por Honduras Humana en 2021"
+              "text": "Excandidato independiente por Honduras Humana en 2021"
             }
           },
           {
