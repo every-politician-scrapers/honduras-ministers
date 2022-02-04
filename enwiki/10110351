@@ -195,10 +195,10 @@
         [
           {
             "Ministerios/Secretarías y otros entes": {
-              "text": "Designaturas presidenciales",
+              "text": "Designados presidenciales",
               "links": [
                 {
-                  "text": "Designaturas presidenciales",
+                  "text": "Designados presidenciales",
                   "type": "internal",
                   "page": "Designado presidencial"
                 }
@@ -320,7 +320,7 @@
               "text": "José Manuel Zelaya Rosales"
             },
             "Notas": {
-              "text": "Sobrino de expresidente Manuel Zelaya",
+              "text": "Sobrino del expresidente Manuel Zelaya",
               "links": [
                 {
                   "type": "internal",
@@ -477,7 +477,7 @@
               "text": "Pedro Barquero"
             },
             "Notas": {
-              "text": "Empresario, coordinador del Partido Salvador de Honduras",
+              "text": "Empresario y coordinador del Partido Salvador de Honduras",
               "links": [
                 {
                   "type": "internal",
@@ -653,7 +653,7 @@
               "text": "Anarella Vélez"
             },
             "Notas": {
-              "text": "Catedrática de la UNAH, historiadora, ensayista",
+              "text": "Catedrática de la UNAH, historiadora y ensayista",
               "links": [
                 {
                   "text": "UNAH",
