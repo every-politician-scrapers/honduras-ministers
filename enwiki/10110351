@@ -122,7 +122,7 @@
             ]
           },
           "jefe de gobierno": {
-            "text": "Salvador Nasralla Doris Gutiérrez Renato Florentino Pineda",
+            "text": "1.º: Salvador Nasralla 2.ª: Doris Gutiérrez 3.º: Renato Florentino Pineda",
             "links": [
               {
                 "type": "internal",
@@ -131,6 +131,10 @@
               {
                 "type": "internal",
                 "page": "Doris Gutiérrez"
+              },
+              {
+                "type": "internal",
+                "page": "Renato Florentino Pineda"
               }
             ]
           },
@@ -205,7 +209,7 @@
               ]
             },
             "Titular": {
-              "text": "Salvador Nasralla, Doris Gutiérrez, Renato Florentino",
+              "text": "1.º: Salvador Nasralla 2.ª: Doris Gutiérrez 3.º: Renato Florentino Pineda",
               "links": [
                 {
                   "type": "internal",
@@ -216,7 +220,6 @@
                   "page": "Doris Gutiérrez"
                 },
                 {
-                  "text": "Renato Florentino",
                   "type": "internal",
                   "page": "Renato Florentino Pineda"
                 }
