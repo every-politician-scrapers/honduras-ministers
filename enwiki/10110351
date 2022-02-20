@@ -86,11 +86,17 @@
               }
             ]
           },
+          "nombre nativo": {
+            "text": "Logo gobierno-xiomaracastrohn.png"
+          },
           "imagen": {
             "text": "Xiomara Castro 2022 (cropped).jpg"
           },
           "tamañoimagen": {
             "text": "250px"
+          },
+          "pie": {
+            "text": "Xiomara Castro como presidenta de Honduras"
           },
           "nombre jefe de estado": {
             "text": "Presidenta de la República",
