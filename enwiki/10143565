@@ -1,6 +1,6 @@
 {
   "title": "Gobierno de Xiomara Castro",
-  "pageID": 10110351,
+  "pageID": 10143565,
   "categories": [
     "Política de Honduras",
     "Xiomara Castro",
@@ -201,18 +201,18 @@
       "tables": [
         [
           {
-            "Ministerios/Secretarías y otros entes": {
-              "text": "Designados presidenciales",
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Designaturas presidenciales",
               "links": [
                 {
-                  "text": "Designados presidenciales",
+                  "text": "Designaturas presidenciales",
                   "type": "internal",
                   "page": "Designado presidencial"
                 }
               ]
             },
-            "Titular": {
-              "text": "1.º: Salvador Nasralla 2.ª: Doris Gutiérrez 3.º: Renato Florentino Pineda",
+            "Titulares": {
+              "text": "1.ª: Salvador Nasralla 2.ª: Doris Gutiérrez 3.ª: Renato Florentino Pineda",
               "links": [
                 {
                   "type": "internal",
@@ -233,10 +233,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de la SAR"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Marlon Ochoa"
             },
             "Notas": {
@@ -244,7 +244,7 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Gobernación, Justicia y Descentralización",
               "links": [
                 {
@@ -254,7 +254,7 @@
                 }
               ]
             },
-            "Titular": {
+            "Titulares": {
               "text": "Tomás Vaquero"
             },
             "Notas": {
@@ -262,7 +262,7 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Finanzas",
               "links": [
                 {
@@ -272,7 +272,7 @@
                 }
               ]
             },
-            "Titular": {
+            "Titulares": {
               "text": "Rixi Moncada",
               "links": [
                 {
@@ -293,7 +293,7 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Relaciones Exteriores",
               "links": [
                 {
@@ -303,7 +303,7 @@
                 }
               ]
             },
-            "Titular": {
+            "Titulares": {
               "text": "Eduardo Enrique Reina"
             },
             "Notas": {
@@ -317,7 +317,7 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Defensa",
               "links": [
                 {
@@ -327,7 +327,7 @@
                 }
               ]
             },
-            "Titular": {
+            "Titulares": {
               "text": "José Manuel Zelaya Rosales"
             },
             "Notas": {
@@ -341,7 +341,7 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Educación Pública",
               "links": [
                 {
@@ -351,7 +351,7 @@
                 }
               ]
             },
-            "Titular": {
+            "Titulares": {
               "text": "Daniel Sponda"
             },
             "Notas": {
@@ -359,10 +359,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Salud"
             },
-            "Titular": {
+            "Titulares": {
               "text": "José Manuel Matheu"
             },
             "Notas": {
@@ -376,7 +376,7 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Agricultura y Ganadería",
               "links": [
                 {
@@ -386,7 +386,7 @@
                 }
               ]
             },
-            "Titular": {
+            "Titulares": {
               "text": "Laura Suazo"
             },
             "Notas": {
@@ -394,10 +394,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría del Gabinete"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Rodolfo Pastor de María Campos"
             },
             "Notas": {
@@ -405,10 +405,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Seguridad"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Ramón Sabillón"
             },
             "Notas": {
@@ -423,7 +423,7 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Desarrollo e Inclusión Social",
               "links": [
                 {
@@ -433,7 +433,7 @@
                 }
               ]
             },
-            "Titular": {
+            "Titulares": {
               "text": "José Carlos Cardona"
             },
             "Notas": {
@@ -441,10 +441,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Turismo"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Yadira Gómez"
             },
             "Notas": {
@@ -452,7 +452,7 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Presidenta del Banco Central de Honduras",
               "links": [
                 {
@@ -462,7 +462,7 @@
                 }
               ]
             },
-            "Titular": {
+            "Titulares": {
               "text": "Rebeca Santos"
             },
             "Notas": {
@@ -470,10 +470,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Infraestructura y Servicios Públicos"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Mauricio Ramos"
             },
             "Notas": {
@@ -481,10 +481,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Desarrollo Económico"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Pedro Barquero"
             },
             "Notas": {
@@ -498,10 +498,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Comisión Nacional de Banca y Seguros"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Marcio Sierra"
             },
             "Notas": {
@@ -516,10 +516,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Recursos Naturales y Ambiente"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Lucky Medina"
             },
             "Notas": {
@@ -535,10 +535,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Trabajo y Seguridad Social"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Sarahí Cerna"
             },
             "Notas": {
@@ -546,10 +546,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Dirección de Ciencia y Tecnología"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Mary Vallecillo"
             },
             "Notas": {
@@ -557,10 +557,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Ministerio de Asesoría en materia de Transparencia y Combate a la Corrupción"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Edmundo Orellana",
               "links": [
                 {
@@ -574,10 +574,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría Privada de la Presidencia"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Héctor Zelaya Castro"
             },
             "Notas": {
@@ -591,10 +591,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Derechos Humanos"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Natalie Roque"
             },
             "Notas": {
@@ -602,10 +602,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Dirección Presidencial de Planificación"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Ricardo Salgado"
             },
             "Notas": {
@@ -613,10 +613,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría de Prensa"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Ivis Alvarado"
             },
             "Notas": {
@@ -624,10 +624,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Gestión por Resultados/Casa Presidencial"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Julio Navarro"
             },
             "Notas": {
@@ -635,10 +635,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "INFOP (Instituto Nacional de Formación profesional)"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Fredis Cerrato"
             },
             "Notas": {
@@ -646,10 +646,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Enlace Municipal Casa Presidencial"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Nelson Licona"
             },
             "Notas": {
@@ -657,10 +657,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Dirección Especial Ejecutiva de Cultura y Artes"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Anarella Vélez"
             },
             "Notas": {
@@ -675,10 +675,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Ministro asesor en materia de Comunicaciones de la Presidencia"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Milton Benítez"
             },
             "Notas": {
@@ -686,10 +686,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Asistente de la Presidencia en atención a presos políticos y sociales"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Pedro Joaquín Amador"
             },
             "Notas": {
@@ -697,10 +697,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Comisión Presidencial contra las ZEDE"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Fernando García"
             },
             "Notas": {
@@ -708,10 +708,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Reforestación Nacional y Medio Ambiente"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Miguel Briceño"
             },
             "Notas": {
@@ -719,10 +719,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Instituto Nacional de Estadística"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Eugenio Sosa"
             },
             "Notas": {
@@ -730,10 +730,10 @@
             }
           },
           {
-            "Ministerios/Secretarías y otros entes": {
-              "text": "Ministro Asesor de la Presidencia en Materia Laboral"
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Ministerio de Asesoría de la Presidencia en Materia Laboral"
             },
-            "Titular": {
+            "Titulares": {
               "text": "Olvin Rodríguez"
             },
             "Notas": {
@@ -818,10 +818,10 @@
               ]
             },
             {
-              "text": "La gradería en turquesa, blanco y azul celeste, el color de la imagen del nuevo gobierno."
+              "text": "La gradería en blanco y dos tonos de turquesa, uno verdoso y otro muy parecido al celeste; siendo ese último el color de la imagen del nuevo gobierno."
             },
             {
-              "text": "El mismo tono de azul es el que Castro usó de manera inédita en su banda presidencial, y el que, comenzado su gobierno, pasó a usarse en la Bandera Nacional —esto en referencia al «azul turquesa» que debe tener la bandera según su decreto.",
+              "text": "El mismo tono de azul es el que Castro usó de manera inédita en su banda presidencial, y el que, comenzado su gobierno, pasó a usarse en la Bandera Nacional —esto para cumplir con el «azul turquesa» que por ley debe tener la misma.",
               "links": [
                 {
                   "type": "internal",
@@ -831,12 +831,6 @@
                   "text": "azul turquesa",
                   "type": "internal",
                   "page": "Turquesa (color)"
-                },
-                {
-                  "text": "su decreto",
-                  "type": "internal",
-                  "page": "Bandera de Honduras",
-                  "anchor": "Modificación"
                 }
               ]
             }
@@ -845,7 +839,7 @@
         {
           "sentences": [
             {
-              "text": "A su investidura asistieron: el rey de España Felipe VI, los presidentes Carlos Alvarado de Costa Rica y Laurentino Cortizo de Panamá; las vicepresidentas Kamala Harris de Estados Unidos, Cristina Fernández de Kirchner de Argentina y Raquel Peña de Antuña de República Dominicana; los vicepresidentes de Taiwán William Lai, Félix Ulloa de El Salvador, Salvador Valdés Mesa de Cuba, el presidente electo de Chile Gabriel Boric y el expresidente de Bolivia Evo Morales, entre otras personalidades.",
+              "text": "A su investidura asistieron: el rey de España Felipe VI, los presidentes Carlos Alvarado de Costa Rica y Laurentino Cortizo de Panamá, y el primer ministro de Belice, Juan Antonio Briceño.",
               "links": [
                 {
                   "text": "Felipe VI",
@@ -863,11 +857,16 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Kamala Harris"
-                },
+                  "page": "Juan Antonio Briceño"
+                }
+              ]
+            },
+            {
+              "text": "Las vicepresidentas Kamala Harris de Estados Unidos, Raquel Peña de Antuña de República Dominicana y Cristina Fernández de Kirchner de Argentina —acompañada, entre otros, de la ministra de las Mujeres, Géneros y Diversidad, Elizabeth Gómez Alcorta—; y los vicepresidentes William Lai de Taiwán, Salvador Valdés Mesa de Cuba y Félix Ulloa de El Salvador —junto al presidente de la Asamblea Legislativa de El Salvador, Ernesto Castro Aldana.",
+              "links": [
                 {
                   "type": "internal",
-                  "page": "Cristina Fernández de Kirchner"
+                  "page": "Kamala Harris"
                 },
                 {
                   "type": "internal",
@@ -875,7 +874,19 @@
                 },
                 {
                   "type": "internal",
+                  "page": "Cristina Fernández de Kirchner"
+                },
+                {
+                  "type": "internal",
+                  "page": "Elizabeth Gómez Alcorta"
+                },
+                {
+                  "type": "internal",
                   "page": "William Lai"
+                },
+                {
+                  "type": "internal",
+                  "page": "Salvador Valdés Mesa"
                 },
                 {
                   "type": "internal",
@@ -883,8 +894,17 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Salvador Valdés Mesa"
+                  "page": "Asamblea Legislativa de El Salvador"
                 },
+                {
+                  "type": "internal",
+                  "page": "Ernesto Castro Aldana"
+                }
+              ]
+            },
+            {
+              "text": "El presidente electo de Chile Gabriel Boric y el expresidente de Bolivia Evo Morales.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Gabriel Boric"
@@ -894,6 +914,13 @@
                   "page": "Evo Morales"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Entre otras personalidades, también asistieron los cancilleres de México, Nicaragua y Bolivia; y el vicecanciller de Colombia."
             },
             {
               "text": "El presidente saliente Juan Orlando Hernández no se presentó a la ceremonia, deseándole éxito a las nuevas autoridades de gobierno en una cadena el día anterior.",
@@ -907,22 +934,49 @@
           ]
         }
       ],
-      "templates": [
+      "references": [
         {
-          "list": [
-            "Investidura presidencial de Xiomara Castro"
-          ],
-          "t": "20220131023728",
-          "template": "fusionar desde"
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
-          "list": [
-            "Investidura presidencial de Xiomara Castro"
-          ],
-          "template": "ap"
-        }
-      ],
-      "references": [
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
