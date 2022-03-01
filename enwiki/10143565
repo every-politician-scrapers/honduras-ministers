@@ -202,10 +202,10 @@
         [
           {
             "Ministerios/Secretarías y otros puestos": {
-              "text": "Designaturas presidenciales",
+              "text": "Designados presidenciales",
               "links": [
                 {
-                  "text": "Designaturas presidenciales",
+                  "text": "Designados presidenciales",
                   "type": "internal",
                   "page": "Designado presidencial"
                 }
