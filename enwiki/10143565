@@ -304,7 +304,13 @@
               ]
             },
             "Titulares": {
-              "text": "Eduardo Enrique Reina"
+              "text": "Eduardo Enrique Reina",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eduardo Enrique Reina"
+                }
+              ]
             },
             "Notas": {
               "text": "Exmagistrado del Tribunal de Justicia Electoral",
@@ -463,7 +469,13 @@
               ]
             },
             "Titulares": {
-              "text": "Rebeca Santos"
+              "text": "Rebeca Santos",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rebeca Santos"
+                }
+              ]
             },
             "Notas": {
               "text": "Exsecretaria de Finanzas"
