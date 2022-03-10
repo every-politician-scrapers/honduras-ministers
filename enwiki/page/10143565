@@ -72,7 +72,7 @@
             "text": "black"
           },
           "nombre": {
-            "text": "60px\nAdministración de Xiomara Castro\n2022-actualidad",
+            "text": "60px\nAdministración de Xiomara Castro\n2022 - actual",
             "links": [
               {
                 "text": "60px",
@@ -82,7 +82,17 @@
             ]
           },
           "imagen": {
-            "text": "Gobierno de Honduras (2022-).svg"
+            "text": "Xiomara Castro 2022 (cropped).jpg"
+          },
+          "nombre nativo": {
+            "text": "250px",
+            "links": [
+              {
+                "text": "250px",
+                "type": "internal",
+                "page": "Archivo: Gobierno de Honduras (2022-).svg"
+              }
+            ]
           },
           "nombre jefe de estado": {
             "text": "Presidenta de la República",
