@@ -210,7 +210,7 @@
               ]
             },
             {
-              "text": "La hasta entonces presidenta electa informó que su toma de mando no usaría medios económicos del Estado hondureño, por lo que la Comisión de Traspaso de Mando Presidencial inició una recaudación a nivel nacional para conseguir los fondos necesarios para la ceremonia.",
+              "text": "La hasta entonces presidenta electa informó que su toma de mando no usaría medios económicos del Estado hondureño, por lo que la Comisión de Traspaso de Mando Presidencial inició una recaudación a nivel nacional para conseguir los fondos necesarios para la ceremonia,  llegando a recaudar uno 36millones de lempiras.",
               "links": [
                 {
                   "text": "toma de mando",
@@ -220,17 +220,20 @@
               ]
             },
             {
-              "text": "También, como parte de los preparativos, la Comisión pintó la gradería y exteriores del Estadio Nacional.",
+              "text": "Entre los donantes se encontró la República de Taiwán.",
               "links": [
                 {
-                  "text": "Estadio Nacional",
+                  "text": "República de Taiwán",
                   "type": "internal",
-                  "page": "Estadio Nacional de Tegucigalpa"
+                  "page": "República de China"
                 }
               ]
             },
             {
-              "text": "La gradería en blanco y dos tonos de turquesa, uno verdoso y otro muy parecido al celeste; siendo ese último el color de la imagen del nuevo gobierno."
+              "text": "Como parte de los preparativos, la Comisión realizó varias mejoras y reparaciones al estadio, las cuales tuvieron un costo de 28millones 293mil lempiras."
+            },
+            {
+              "text": "Entre ellas, se pintó casi en su totalidad, en colores blanco y dos tonos de turquesa, uno verdoso y otro muy parecido al celeste; siendo ese último el color de la imagen del nuevo gobierno."
             },
             {
               "text": "El mismo tono de azul es el que Castro usó de manera inédita en su banda presidencial, y el que, comenzado su gobierno, pasó a usarse en la Bandera Nacional —esto para cumplir con el «azul turquesa» que por ley debe tener la misma.",
@@ -243,6 +246,16 @@
                   "text": "azul turquesa",
                   "type": "internal",
                   "page": "Turquesa (color)"
+                }
+              ]
+            },
+            {
+              "text": "Debido a la crisis institucional que atravesaba el Congreso Nacional y a la ausencia en la ceremonia del presidente del Poder Judicial, Castro fue juramentada por la jueza Karla Romero.",
+              "links": [
+                {
+                  "text": "crisis institucional que atravesaba el Congreso Nacional",
+                  "type": "internal",
+                  "page": "Crisis política en Honduras de 2022"
                 }
               ]
             }
@@ -326,11 +339,7 @@
                   "page": "Evo Morales"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Entre otras personalidades, también asistieron los cancilleres de México, Nicaragua y Bolivia; y el vicecanciller de Colombia."
             },
@@ -344,9 +353,77 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "En su primer discurso como presidenta, Castro prometió concentrar los esfuerzo de su gobierno en las materias de educación, salud, seguridad y empleo."
+            },
+            {
+              "text": "Dijo que el país se hallaba en una «catástrofe económica» y que en los primeros 100 días tomaría medidas urgentes para la «refundación del país»."
+            },
+            {
+              "text": "Entre sus promesas concretas, anunció que al día siguiente iniciaría pláticas con los maestro para el retorno a clases presenciales (suspendidas por la pandemia), que enviaría un proyecto de ley para subsidiar los combustibles y otro para que dar energía gratis a las familias que consumen menos de 150kw al mes, que renegociaría las cláusulas del CAFTA, bajaría los intereses bancarios, no extendería permisos para la explotación de minas abiertas ni de minerales, ríos, cuencas hidrográficas, parques nacionales y bosques nublados; y que pediría la instalación de una comisión internacional contra la corrupción y la impunidad con el apoyo de la ONU.",
+              "links": [
+                {
+                  "text": "la pandemia",
+                  "type": "internal",
+                  "page": "Pandemia de COVID-19"
+                },
+                {
+                  "text": "kw",
+                  "type": "internal",
+                  "page": "kw"
+                },
+                {
+                  "text": "CAFTA",
+                  "type": "internal",
+                  "page": "Tratado de Libre Comercio entre Estados Unidos, Centroamérica y República Dominicana"
+                }
+              ]
+            },
+            {
+              "text": "«Debemos arrancar de raíz la corrupción de doce años de dictadura», expresó."
+            },
+            {
+              "text": "También dijo que durante su gobierno, los adultos mayores, las personas con capacidades especiales, la niñez y la juventud, los pueblos indígenas y afrodescendientes, y la comunidad LGBT tendrían «un lugar y atención precisa»."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "esd"
+        },
+        {
+          "template": "esd"
+        },
+        {
+          "template": "esd"
+        },
+        {
+          "template": "esd"
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
@@ -479,7 +556,7 @@
               ]
             },
             {
-              "text": "Los nombramientos de su hijo Héctor Zelaya Castro como secretario privado de la Presidencia y de su sobrino político como ministro de Defensa generó críticas por considerarlos como nepotismo.",
+              "text": "Los nombramientos de su hijo Héctor Zelaya Castro como secretario privado de la Presidencia y de su sobrino político José Manuel Zelaya como ministro de Defensa generó críticas por considerarlos como nepotismo.",
               "links": [
                 {
                   "text": "nepotismo",
@@ -538,8 +615,8 @@
                 }
               ]
             },
-            "Notas": {
-              "text": "Electos en la fórmula presidencial"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -549,14 +626,8 @@
             "Titulares": {
               "text": "Héctor Zelaya Castro"
             },
-            "Notas": {
-              "text": "Hijo de la presidenta Xiomara Castro",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Xiomara Castro"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -572,8 +643,8 @@
                 }
               ]
             },
-            "Notas": {
-              "text": "Exfiscal de la República"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -583,8 +654,8 @@
             "Titulares": {
               "text": "Milton Benítez"
             },
-            "Notas": {
-              "text": "Excandidato independiente por Honduras Humana en 2021"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -593,6 +664,9 @@
             },
             "Titulares": {
               "text": "Pedro Joaquín Amador"
+            },
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -602,8 +676,8 @@
             "Titulares": {
               "text": "Olvin Rodríguez"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -613,8 +687,8 @@
             "Titulares": {
               "text": "Fernando García"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -624,8 +698,8 @@
             "Titulares": {
               "text": "Ricardo Salgado"
             },
-            "Notas": {
-              "text": "Dirigente de Libre"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -635,8 +709,8 @@
             "Titulares": {
               "text": "Julio Navarro"
             },
-            "Notas": {
-              "text": "Sociólogo"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -646,8 +720,8 @@
             "Titulares": {
               "text": "Nelson Licona"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -657,8 +731,8 @@
             "Titulares": {
               "text": "Rodolfo Pastor de María Campos"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -681,14 +755,8 @@
                 }
               ]
             },
-            "Notas": {
-              "text": "Exmagistrado del Tribunal de Justicia Electoral",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tribunal de Justicia Electoral"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -711,15 +779,8 @@
                 }
               ]
             },
-            "Notas": {
-              "text": "Exconsejera del Consejo Nacional Electoral",
-              "links": [
-                {
-                  "text": "Consejo Nacional Electoral",
-                  "type": "internal",
-                  "page": "Consejo Nacional Electoral (Honduras)"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -736,7 +797,7 @@
             "Titulares": {
               "text": "Tomás Vaquero"
             },
-            "Notas": {
+            "Periodo": {
               "text": ""
             }
           },
@@ -754,14 +815,8 @@
             "Titulares": {
               "text": "José Manuel Zelaya Rosales"
             },
-            "Notas": {
-              "text": "Sobrino del expresidente Manuel Zelaya",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Manuel Zelaya"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -778,8 +833,8 @@
             "Titulares": {
               "text": "Daniel Sponda"
             },
-            "Notas": {
-              "text": "Excandidato a diputado"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -789,14 +844,8 @@
             "Titulares": {
               "text": "José Manuel Matheu"
             },
-            "Notas": {
-              "text": "Médico y diputado por el Partido Salvador de Honduras",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Partido Salvador de Honduras"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -806,14 +855,8 @@
             "Titulares": {
               "text": "Pedro Barquero"
             },
-            "Notas": {
-              "text": "Empresario y coordinador del Partido Salvador de Honduras",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Partido Salvador de Honduras"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -830,8 +873,8 @@
             "Titulares": {
               "text": "Laura Suazo"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -841,15 +884,8 @@
             "Titulares": {
               "text": "Ramón Sabillón"
             },
-            "Notas": {
-              "text": "Exdirector de la Policía Nacional durante el gobierno de Juan Orlando Hernández",
-              "links": [
-                {
-                  "text": "gobierno de Juan Orlando Hernández",
-                  "type": "internal",
-                  "page": "gobierno de Juan Orlando Hernández"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -866,8 +902,8 @@
             "Titulares": {
               "text": "José Carlos Cardona"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -877,8 +913,8 @@
             "Titulares": {
               "text": "Natalie Roque"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -888,8 +924,8 @@
             "Titulares": {
               "text": "Marlon Ochoa"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -899,8 +935,8 @@
             "Titulares": {
               "text": "Yadira Gómez"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -910,8 +946,8 @@
             "Titulares": {
               "text": "Mauricio García"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -921,16 +957,8 @@
             "Titulares": {
               "text": "Lucky Medina"
             },
-            "Notas": {
-              "text": "Excandidato a designado presidencial de Castro, quien renunció como parte del pacto Libre-PSH",
-              "links": [
-                {
-                  "text": "pacto Libre-PSH",
-                  "type": "internal",
-                  "page": "Elecciones generales de Honduras de 2021",
-                  "anchor": "Candidaturas presidenciales"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -940,8 +968,8 @@
             "Titulares": {
               "text": "Sarahí Cerna"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -951,8 +979,8 @@
             "Titulares": {
               "text": "Ivis Alvarado"
             },
-            "Notas": {
-              "text": "Periodista"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -974,8 +1002,8 @@
                 }
               ]
             },
-            "Notas": {
-              "text": "Exsecretaria de Finanzas"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -985,15 +1013,8 @@
             "Titulares": {
               "text": "Marcio Sierra"
             },
-            "Notas": {
-              "text": "Parte del gabinete en el gobierno de Manuel Zelaya",
-              "links": [
-                {
-                  "text": "gobierno de Manuel Zelaya",
-                  "type": "internal",
-                  "page": "gobierno de Manuel Zelaya"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -1003,8 +1024,8 @@
             "Titulares": {
               "text": "Mary Vallecillo"
             },
-            "Notas": {
-              "text": "Científica"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -1014,8 +1035,8 @@
             "Titulares": {
               "text": "Fredis Cerrato"
             },
-            "Notas": {
-              "text": "Presidente del Colegio de Abogados"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -1025,15 +1046,8 @@
             "Titulares": {
               "text": "Anarella Vélez"
             },
-            "Notas": {
-              "text": "Catedrática de la UNAH, historiadora y ensayista",
-              "links": [
-                {
-                  "text": "UNAH",
-                  "type": "internal",
-                  "page": "Universidad Nacional Autónoma de Honduras"
-                }
-              ]
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -1043,8 +1057,8 @@
             "Titulares": {
               "text": "Miguel Briceño"
             },
-            "Notas": {
-              "text": ""
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           },
           {
@@ -1054,8 +1068,8 @@
             "Titulares": {
               "text": "Eugenio Sosa"
             },
-            "Notas": {
-              "text": "Sociólogo"
+            "Periodo": {
+              "text": "Ene 2022-"
             }
           }
         ]
@@ -1084,6 +1098,85 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "group": "n",
+          "list": [
+            "Catedrática de la UNAH, historiadora y ensayista"
+          ],
+          "template": "refn"
         }
       ]
     },
@@ -1107,6 +1200,19 @@
             ]
           }
         ]
+      ]
+    },
+    {
+      "title": "Notas",
+      "depth": 0,
+      "templates": [
+        {
+          "group": "n",
+          "list": [
+            "4"
+          ],
+          "template": "listaref"
+        }
       ]
     },
     {
