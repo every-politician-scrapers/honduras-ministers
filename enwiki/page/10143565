@@ -842,7 +842,13 @@
               "text": "Secretaría de Salud"
             },
             "Titulares": {
-              "text": "José Manuel Matheu"
+              "text": "José Manuel Matheu",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "José Manuel Matheu"
+                }
+              ]
             },
             "Periodo": {
               "text": "Ene 2022-"
