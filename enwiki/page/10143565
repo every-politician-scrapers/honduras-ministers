@@ -726,6 +726,17 @@
           },
           {
             "Ministerios/Secretarías y otros puestos": {
+              "text": "Secretaria de Cultura y Artes"
+            },
+            "Titulares": {
+              "text": "Anarella Vélez"
+            },
+            "Periodo": {
+              "text": "Ene 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría del Gabinete"
             },
             "Titulares": {
@@ -1077,6 +1088,50 @@
             "Periodo": {
               "text": "Ene 2022-actualidad"
             }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "ENEE (Empresa de Energía Eléctrica)"
+            },
+            "Titulares": {
+              "text": "Leonardo Deras"
+            },
+            "Periodo": {
+              "text": ""
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "HONDUTEL"
+            },
+            "Titulares": {
+              "text": "Orbin Montoya"
+            },
+            "Periodo": {
+              "text": ""
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "HONDUCOR"
+            },
+            "Titulares": {
+              "text": "David Zelaya Flores"
+            },
+            "Periodo": {
+              "text": "Feb 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "BANADESA"
+            },
+            "Titulares": {
+              "text": "Tania Sagastume Bulnes"
+            },
+            "Periodo": {
+              "text": ""
+            }
           }
         ]
       ],
@@ -1183,6 +1238,66 @@
             "Catedrática de la UNAH, historiadora y ensayista"
           ],
           "template": "refn"
+        }
+      ]
+    },
+    {
+      "title": "Primeros 100 días",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "En los primeros 100 días de su gobierno desde su asunción, el gobierno de Xiomara Castro implementó varias medidas prometidas durante su asunción, entre ellas la política de energía gratuita para familias pobres, que llegan a alrededor de un millón que consumen menos de 150 kilovatios mensuales, aprobada el 2 de febrero."
+            },
+            {
+              "text": "Además, se aprobó otra cuestión energética como el subsidio a los combustibles, con una rebaja de 10 lempiras a la gasolina."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sin embargo, hay promesas que aún no se han visto implementadas o no está claro su avance, como la reducción de los intereses en la banca, el fomento de la agroforestación."
+            },
+            {
+              "text": "y el turismo, y la política exterior."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Durante este período se extraditó al exmandatario Juan Orlando Hernández, acusado de narcotráfico.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Juan Orlando Hernández"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Policía comunitaria",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Xiomara Castro anuncio el domingo 3 de julio que creará la policía comunitaria primero en Santa Barbara luego el resto de Honduras y dice que condenara a delincuentes y pandillas."
+            }
+          ]
         }
       ]
     },
