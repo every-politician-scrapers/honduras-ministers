@@ -6,17 +6,23 @@ Q110787063,José Manuel Zelaya Rosales,relative,Q191060,Manuel Zelaya
 Q110787306,Carlos Zelaya,child,Q110787063,José Manuel Zelaya Rosales
 Q110787306,Carlos Zelaya,relative,Q8044708,Xiomara Castro
 Q110787596,Héctor Zelaya Castro,mother,Q8044708,Xiomara Castro
+Q15427651,Rosa Elena Bonilla,spouse,Q4737,Porfirio Lobo Sosa
+Q16300525,Ana García Carías,spouse,Q5951723,Juan Orlando Hernández
 Q191060,Manuel Zelaya,child,Q110651912,Xiomara Zelaya
 Q191060,Manuel Zelaya,spouse,Q8044708,Xiomara Castro
 Q299442,Roberto Micheletti,spouse,Q7525339,Siomara Girón
 Q441393,Ricardo Maduro,spouse,Q4694502,Aguas Santas Ocaña Navarro
+Q4694502,Aguas Santas Ocaña Navarro,spouse,Q441393,Ricardo Maduro
 Q4737,Porfirio Lobo Sosa,spouse,Q15427651,Rosa Elena Bonilla
+Q5392028,Mary Flake de Flores,child,Q6003184,Mary Elizabeth Flores
+Q5392028,Mary Flake de Flores,spouse,Q654177,Carlos Roberto Flores
 Q5951723,Juan Orlando Hernández,sibling,Q26991369,Hilda Hernández
 Q5951723,Juan Orlando Hernández,sibling,Q59194112,Juan Antonio Hernández
 Q5951723,Juan Orlando Hernández,spouse,Q16300525,Ana García Carías
 Q654177,Carlos Roberto Flores,child,Q6003184,Mary Elizabeth Flores
 Q654177,Carlos Roberto Flores,father,Q20015092,Óscar Armando Flores
 Q654177,Carlos Roberto Flores,spouse,Q5392028,Mary Flake de Flores
+Q7525339,Siomara Girón,spouse,Q299442,Roberto Micheletti
 Q8044708,Xiomara Castro,child,Q110651912,Xiomara Zelaya
 Q8044708,Xiomara Castro,child,Q110787596,Héctor Zelaya Castro
 Q8044708,Xiomara Castro,spouse,Q191060,Manuel Zelaya
