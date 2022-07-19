@@ -583,6 +583,13 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Después se fueron sumando el gabinete con lo del aumento del presupuesto del Estado hondureño."
+            }
+          ]
         }
       ],
       "tables": [
@@ -726,6 +733,28 @@
           },
           {
             "Ministerios/Secretarías y otros puestos": {
+              "text": "Asesoría presidencial de Honduras"
+            },
+            "Titulares": {
+              "text": "Manuel Zelaya Paola Shuali Pacheco"
+            },
+            "Periodo": {
+              "text": "Ene 2022-Jul 2022 Jul 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Comisión de la Verdad"
+            },
+            "Titulares": {
+              "text": "Rodolfo Sponda Benítez"
+            },
+            "Periodo": {
+              "text": "Jun 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaria de Cultura y Artes"
             },
             "Titulares": {
@@ -809,7 +838,7 @@
               "text": "Tomás Vaquero"
             },
             "Periodo": {
-              "text": ""
+              "text": "Feb 2021-actualidad"
             }
           },
           {
@@ -1002,6 +1031,28 @@
           },
           {
             "Ministerios/Secretarías y otros puestos": {
+              "text": "Secretaria de la Juventud"
+            },
+            "Titulares": {
+              "text": "Fausto Calix Zulmit Rivera"
+            },
+            "Periodo": {
+              "text": "Feb 2022-Mar 2022 Abr 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Secretaria de la Mujer"
+            },
+            "Titulares": {
+              "text": "Doris García"
+            },
+            "Periodo": {
+              "text": "May 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Banco Central de Honduras",
               "links": [
                 {
@@ -1097,7 +1148,7 @@
               "text": "Leonardo Deras"
             },
             "Periodo": {
-              "text": ""
+              "text": "Feb 2022-actualidad"
             }
           },
           {
@@ -1108,7 +1159,7 @@
               "text": "Orbin Montoya"
             },
             "Periodo": {
-              "text": ""
+              "text": "Ene 2022-actualidad"
             }
           },
           {
@@ -1130,12 +1181,88 @@
               "text": "Tania Sagastume Bulnes"
             },
             "Periodo": {
-              "text": ""
+              "text": "Mar 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Segunda dama de Honduras"
+            },
+            "Titulares": {
+              "text": "Iroshka Elvir",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iroshka Elvir"
+                }
+              ]
+            },
+            "Periodo": {
+              "text": "Ene 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Representante gubernamental de Honduras"
+            },
+            "Titulares": {
+              "text": "Xiomara Castro",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Xiomara Castro"
+                }
+              ]
+            },
+            "Periodo": {
+              "text": "Feb 2022-actualidad"
             }
           }
         ]
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
@@ -1289,15 +1416,20 @@
       ]
     },
     {
-      "title": "Policía comunitaria",
+      "title": "Nueva Constitución",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Xiomara Castro anuncio el domingo 3 de julio que creará la policía comunitaria primero en Santa Barbara luego el resto de Honduras y dice que condenara a delincuentes y pandillas."
+              "text": "Xiomara Castro intentara redactar la constitución para cambiar Honduras y restablecer el orden democrático."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "futuro"
         }
       ]
     },
