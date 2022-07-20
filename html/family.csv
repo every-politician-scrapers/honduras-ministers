@@ -1,9 +1,9 @@
 id,name,relationship,relative,relativename
 Q110651912,Xiomara Zelaya,father,Q191060,Manuel Zelaya
 Q110651912,Xiomara Zelaya,mother,Q8044708,Xiomara Castro
-Q110787063,José Manuel Zelaya Rosales,father,Q110787306,Carlos Zelaya
-Q110787063,José Manuel Zelaya Rosales,relative,Q191060,Manuel Zelaya
-Q110787306,Carlos Zelaya,child,Q110787063,José Manuel Zelaya Rosales
+Q110787063,José Manuel Zelaya,father,Q110787306,Carlos Zelaya
+Q110787063,José Manuel Zelaya,relative,Q191060,Manuel Zelaya
+Q110787306,Carlos Zelaya,child,Q110787063,José Manuel Zelaya
 Q110787306,Carlos Zelaya,relative,Q8044708,Xiomara Castro
 Q110787596,Héctor Zelaya Castro,mother,Q8044708,Xiomara Castro
 Q15427651,Rosa Elena Bonilla,spouse,Q4737,Porfirio Lobo Sosa
