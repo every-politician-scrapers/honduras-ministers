@@ -1,0 +1,74 @@
+[
+  {
+    "office": {
+      "links": [
+        "Olancho Department"
+      ],
+      "stated_as": "Deputy of the Olancho Department"
+    },
+    "P580": "1986-01-25",
+    "P582": "1998-01-25"
+  },
+  {
+    "office": {
+      "links": [
+        "President of Honduras"
+      ],
+      "stated_as": "52nd President of Honduras"
+    },
+    "P580": "2006-01-27",
+    "P1365": {
+      "links": [
+        "Ricardo Maduro"
+      ],
+      "stated_as": "Ricardo Maduro"
+    },
+    "P582": "2009-06-28",
+    "P1366": {
+      "links": [
+        "Roberto Micheletti"
+      ],
+      "stated_as": "Roberto Micheletti"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Liberty and Refoundation"
+      ],
+      "stated_as": "Leader of Libre"
+    },
+    "P580": "2011-06-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Party established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Olancho Department"
+      ],
+      "stated_as": "Deputy of the Olancho Department"
+    },
+    "P580": "2014-01-25",
+    "P582": "2018-01-25"
+  },
+  {
+    "office": {
+      "links": [
+        "First Ladies and Gentlemen of Honduras"
+      ],
+      "stated_as": "First Gentleman of Honduras"
+    },
+    "P580": "2022-01-27",
+    "P1365": {
+      "links": [
+        "Ana García Carías"
+      ],
+      "stated_as": "Ana García Carías (as First Lady)"
+    }
+  }
+]

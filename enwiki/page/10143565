@@ -755,17 +755,6 @@
           },
           {
             "Ministerios/Secretarías y otros puestos": {
-              "text": "Secretaria de Cultura y Artes"
-            },
-            "Titulares": {
-              "text": "Anarella Vélez"
-            },
-            "Periodo": {
-              "text": "Ene 2022-actualidad"
-            }
-          },
-          {
-            "Ministerios/Secretarías y otros puestos": {
               "text": "Secretaría del Gabinete"
             },
             "Titulares": {
@@ -1215,12 +1204,92 @@
               ]
             },
             "Periodo": {
+              "text": "Feb 2022-Abr 2022"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Presidente en funciones"
+            },
+            "Titulares": {
+              "text": "Manuel Zelaya"
+            },
+            "Periodo": {
+              "text": "Abr 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Vicesecretarios de Salud"
+            },
+            "Titulares": {
+              "text": "1.ª: Deily Carolina Gallo Chaves 2.ª: Alexei Carrillo"
+            },
+            "Periodo": {
+              "text": "May 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Vicesecretarios de Educación"
+            },
+            "Titulares": {
+              "text": "1.ª:Edwin Hernández 2.ª: Jaime Rodríguez"
+            },
+            "Periodo": {
+              "text": "Feb 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Vicesecretarios de Finanzas"
+            },
+            "Titulares": {
+              "text": "1.ª: Roberto Ramírez Alvarenga 2.ª: Rosa Elizabeth Rivera Henríquez"
+            },
+            "Periodo": {
               "text": "Feb 2022-actualidad"
             }
           }
         ]
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",

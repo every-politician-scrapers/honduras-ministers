@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "First Lady of Honduras"
+      ],
+      "stated_as": "First Lady of Honduras"
+    },
+    "P580": "2006-01-27",
+    "P1365": {
+      "links": [
+        "Aguas Santas Ocaña Navarro"
+      ],
+      "stated_as": "Aguas Ocaña"
+    },
+    "P582": "2009-06-28",
+    "P1366": {
+      "links": [
+        "Siomara Girón"
+      ],
+      "stated_as": "Siomara Girón"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Honduras"
+      ],
+      "stated_as": "56th President of Honduras"
+    },
+    "P580": "2022-01-27",
+    "P1365": {
+      "links": [
+        "Juan Orlando Hernández"
+      ],
+      "stated_as": "Juan Orlando Hernández"
+    }
+  }
+]
