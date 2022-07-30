@@ -1175,6 +1175,202 @@
           },
           {
             "Ministerios/Secretarías y otros puestos": {
+              "text": "UFERCO"
+            },
+            "Titulares": {
+              "text": "jefe y vicejefe"
+            },
+            "Periodo": {
+              "text": "Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "CNE (Consejo Nacional Electoral)"
+            },
+            "Titulares": {
+              "text": "3 consejeros"
+            },
+            "Periodo": {
+              "text": "Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Tribunal de Justicia Electoral"
+            },
+            "Titulares": {
+              "text": "3 magistrados"
+            },
+            "Periodo": {
+              "text": "Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Copeco"
+            },
+            "Titulares": {
+              "text": "jefe y vicejefe"
+            },
+            "Periodo": {
+              "text": "Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Turismo"
+            },
+            "Titulares": {
+              "text": "jefe y vicejefe"
+            },
+            "Periodo": {
+              "text": "Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Juzgados y Cortes"
+            },
+            "Titulares": {
+              "text": "360 jueces, 2000 fiscales, 10000 contadores, 70000 notarios y 300000 abogados"
+            },
+            "Periodo": {
+              "text": "Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Red Solidaria"
+            },
+            "Titulares": {
+              "text": "80000 civiles"
+            },
+            "Periodo": {
+              "text": "Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Policía Comunitaria"
+            },
+            "Titulares": {
+              "text": "varios policías"
+            },
+            "Periodo": {
+              "text": "Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Cuerpo de seguridad"
+            },
+            "Titulares": {
+              "text": "1000 policías, 5000 militares, 200000 guardias y 800000 agentes"
+            },
+            "Periodo": {
+              "text": "Ene 2022-actualidad Variado cuando lo suspende"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Fiscal general de la República de Honduras",
+              "links": [
+                {
+                  "text": "Fiscal general de la República de Honduras",
+                  "type": "internal",
+                  "page": "Ministerio Público (Honduras)"
+                }
+              ]
+            },
+            "Titulares": {
+              "text": "Óscar Fernando Chinchilla Fiscal general",
+              "links": [
+                {
+                  "text": "Óscar Fernando Chinchilla",
+                  "type": "internal",
+                  "page": "Óscar Fernando Chinchilla"
+                }
+              ]
+            },
+            "Periodo": {
+              "text": "Jun 2018-Feb 2023 Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Presidente del congreso"
+            },
+            "Titulares": {
+              "text": "Luis Redondo"
+            },
+            "Periodo": {
+              "text": "Ene 2022-Ene 2026"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Presidente de la corte suprema"
+            },
+            "Titulares": {
+              "text": "Rolando Argueta magistrado presidente",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rolando Argueta"
+                }
+              ]
+            },
+            "Periodo": {
+              "text": "Ene 2016-Feb 2023 Feb 2023-Feb 2030"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Presidente de Honduras"
+            },
+            "Titulares": {
+              "text": "Xiomara Castro"
+            },
+            "Periodo": {
+              "text": "Ene 2022-Ene 2026"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "298 corporaciones municipales"
+            },
+            "Titulares": {
+              "text": "298 alcaldes, 298 vicealcaldes y 2092 regidores"
+            },
+            "Periodo": {
+              "text": "Ene 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Congreso Nacional"
+            },
+            "Titulares": {
+              "text": "128 diputados; 65 para la mayoría simple y 84 para la mayoría legislativa"
+            },
+            "Periodo": {
+              "text": "Ene 2022-actualidad variado cuando lo destituye"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Corte Suprema de la Justicia"
+            },
+            "Titulares": {
+              "text": "15 magistrados 7; para la mayoría con 3 partidos políticos"
+            },
+            "Periodo": {
+              "text": "Feb 2023-futuro variado cuando lo destituye"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
               "text": "Segunda dama de Honduras"
             },
             "Titulares": {
@@ -1212,10 +1408,27 @@
               "text": "Presidente en funciones"
             },
             "Titulares": {
-              "text": "Manuel Zelaya"
+              "text": "Manuel Zelaya",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manuel Zelaya"
+                }
+              ]
             },
             "Periodo": {
               "text": "Abr 2022-actualidad"
+            }
+          },
+          {
+            "Ministerios/Secretarías y otros puestos": {
+              "text": "Equipo de trabajo"
+            },
+            "Titulares": {
+              "text": "3002 empleados del CCG y 501 empleados del CPH"
+            },
+            "Periodo": {
+              "text": "variado"
             }
           },
           {
